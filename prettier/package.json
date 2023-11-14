@@ -1,0 +1,20 @@
+{
+  "name": "@nerkarso/prettier-config",
+  "version": "0.1.0",
+  "description": "Prettier configuration",
+  "main": "index.js",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "author": "Ner Karso",
+  "license": "MIT",
+  "homepage": "https://github.com/nerkarso/config/prettier#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nerkarso/config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nerkarso/config/issues"
+  }
+}
