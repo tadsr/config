@@ -1,6 +1,6 @@
 {
   "name": "@nerkarso/eslint-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ESLint configuration",
   "main": "index.js",
   "keywords": [
@@ -9,7 +9,7 @@
   ],
   "author": "Ner Karso",
   "license": "MIT",
-  "homepage": "https://github.com/nerkarso/eslint#readme",
+  "homepage": "https://github.com/nerkarso/config/tree/master/eslint#readme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nerkarso/config.git"
