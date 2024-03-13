@@ -5,7 +5,7 @@ Prettier configuration.
 ## Installation
 
 ```sh
-npm install -D @nerkarso/prettier-config
+npm install -D @tadsr/prettier-config
 ```
 
 ## Usage
@@ -13,20 +13,20 @@ npm install -D @nerkarso/prettier-config
 Add a key in your **package.json** file:
 
 ```json
-"prettier": "@nerkarso/prettier-config"
+"prettier": "@tadsr/prettier-config"
 ```
 
 Or create a **.prettierrc** file and export a string:
 
 ```
-@nerkarso/prettier-config
+@tadsr/prettier-config
 ```
 
 Or create a **prettier.config.js** file and export an object:
 
 ```js
 module.exports = {
-  ...require('@nerkarso/prettier-config'),
+  ...require('@tadsr/prettier-config'),
   // Properties to be overwritten
 };
 ```

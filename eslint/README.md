@@ -5,7 +5,7 @@ ESLint configuration.
 ## Installation
 
 ```sh
-npm install -D @nerkarso/eslint-config
+npm install -D @tadsr/eslint-config
 ```
 
 ## Usage
@@ -16,7 +16,7 @@ Add it to the `extends` property in your **package.json** file:
 {
   "eslintConfig": {
     "extends": [
-      "@nerkarso/eslint-config/react"
+      "@tadsr/eslint-config/react"
     ]
   }
 }
@@ -26,6 +26,6 @@ Or in your **.eslintrc.json** file:
 
 ```json
 {
-  "extends": ["@nerkarso/eslint-config/react"]
+  "extends": ["@tadsr/eslint-config/react"]
 }
 ```
